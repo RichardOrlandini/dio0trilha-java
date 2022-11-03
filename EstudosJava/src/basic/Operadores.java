@@ -3,16 +3,9 @@ public class Operadores{
 
     // operador ternario: Exoressão booleana, ? = se ; : ou
 
-    int a, b;
-
-    a = 5;
-    b = 6;
-
+    int a = 5;
+    int b = 4;
     String resultado = a!= b ? "Sim" : "Não";
-
-    System.out.println(resultado);
-
-
     // Operadores relacionais:
     /*
      * == : ver se é igual mas não compara o tipo
