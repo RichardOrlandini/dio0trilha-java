@@ -1,4 +1,4 @@
-package arrays;
+package arrays.Ordenação;
 // números aleátorio ate 9 , matriz
 import java.util.Random;
 

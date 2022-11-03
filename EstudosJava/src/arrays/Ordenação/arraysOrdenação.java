@@ -1,4 +1,4 @@
-package arrays;
+package arrays.Ordenação;
 
 import java.util.Random;
 // sucessores dos números aleatórios.

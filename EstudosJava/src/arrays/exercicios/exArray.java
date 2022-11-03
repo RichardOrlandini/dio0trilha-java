@@ -1,4 +1,4 @@
-package arrays;
+package arrays.exercicios;
 // ordenando um arrays de trás para frente.
 public class exArray {
     public static void main(String[] args) {

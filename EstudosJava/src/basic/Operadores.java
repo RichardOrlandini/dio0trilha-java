@@ -1,3 +1,5 @@
+package basic;
+
 public class Operadores{
   public static void main(String[] args) {
 
@@ -6,7 +8,7 @@ public class Operadores{
     int a = 5;
     int b = 4;
     String resultado = a!= b ? "Sim" : "Não";
-    // Operadores relacionais:
+    // basic.Operadores relacionais:
     /*
      * == : ver se é igual mas não compara o tipo
      * != : diferente
